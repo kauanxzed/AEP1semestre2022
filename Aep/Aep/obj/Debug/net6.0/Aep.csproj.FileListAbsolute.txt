@@ -1,0 +1,15 @@
+C:\Users\kauan\Desktop\codes\Aep\Aep\bin\Debug\net6.0\Aep.exe
+C:\Users\kauan\Desktop\codes\Aep\Aep\bin\Debug\net6.0\Aep.deps.json
+C:\Users\kauan\Desktop\codes\Aep\Aep\bin\Debug\net6.0\Aep.runtimeconfig.json
+C:\Users\kauan\Desktop\codes\Aep\Aep\bin\Debug\net6.0\Aep.dll
+C:\Users\kauan\Desktop\codes\Aep\Aep\bin\Debug\net6.0\Aep.pdb
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.AssemblyInfo.cs
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.dll
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\refint\Aep.dll
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.pdb
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\Aep.genruntimeconfig.cache
+C:\Users\kauan\Desktop\codes\Aep\Aep\obj\Debug\net6.0\ref\Aep.dll
